@@ -1,2 +1,2 @@
 # Multi-Criteria-Decision-Making-with-Voting
-A multi-criteria decision problem is represented as follows: Each alternative has a set of attributes by which they are compared, and each attribute has a numerical weighting indicating its importance. The alternatives are ranked according to each attribute, and the Schwartz set of the resulting 'election' is computed to determine a set of good decisions.
+A multi-criteria decision problem is represented as follows: Each alternative has a shared set of attributes by which they are compared, and each attribute has a numerical weighting indicating its importance. The alternatives are ranked according to each attribute, and the Schwartz set of the resulting 'election' is computed to determine a set of good decisions.
